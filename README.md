@@ -11,3 +11,7 @@ npx create-nuxt-app client-app
 # install using Yarn
 yarn create nuxt-app client-app
 ``` 
+
+## Credits
+
+Thanks to Sam Walpole for the instructions on how to set this up: https://hackernoon.com/essential-guide-to-running-nuxt-from-an-aspnet-core-web-application-au2f3zsa
